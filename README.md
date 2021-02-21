@@ -2,6 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
+
 - 🔭 I’m currently working on React Native & React
 - 🌱 I’m currently learning Declarative Animation which runs on UI Thread.
 - 👯 I’m looking to collaborate on React Native or React Projects
