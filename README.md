@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there! I'am Ali Asger 👋
 
+### 👨🏻‍💻 &nbsp;About Me
 
 - 🔭 I’m currently working on React Native & React
 - 🌱 I’m currently learning Declarative Animation which runs on UI Thread.
